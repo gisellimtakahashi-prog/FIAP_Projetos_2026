@@ -1,4 +1,4 @@
-# Lunar Resource & Solar Weather Integrated Monitor (v1.0)
+# Lunar Resource & Solar Weather Integrated Monitor 
 
 Sistema integrado de monitoramento do clima espacial e modelagem mineralógica lunar com foco na detecção de Ilmenita ($\text{FeTiO}_3$) e estimativa preditiva de Hélio-3 ($^3\text{He}$) via aprendizado de máquina.
 
