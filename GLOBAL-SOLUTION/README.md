@@ -1,3 +1,9 @@
+<h1 align="center">FIAP - Faculdade de Informática e Administração Paulista</h1>
+
+<p align="center">
+    <img src="https://github.com/agodoi/templateFiapVfinal/raw/main/assets/logo-fiap.png" alt="FIAP" width="300">
+</p>
+
 # Lunar Resource & Solar Weather Integrated Monitor 
 
 Sistema integrado de monitoramento do clima espacial e modelagem mineralógica lunar com foco na detecção de Ilmenita ($\text{FeTiO}_3$) e estimativa preditiva de Hélio-3 ($^3\text{He}$) via aprendizado de máquina.
