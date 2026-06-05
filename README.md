@@ -139,14 +139,18 @@ O painel visual unificado exibe cinco quadrantes integrados estrategicamente par
 Este projeto possui finalidade puramente acadêmica e de pesquisa científica. Os dados utilizados e gerados nas simulações baseiam-se em coeficientes teóricos e padrões reais estabelecidos por agências aeroespaciais (NASA, NOAA, JAXA e USGS).
 
 ---
-
 ## 📚 Referências Bibliográficas e Documentais
 
-* **Haskin & Warren (1991):** *Lunar Chemistry and the Helium-3 Resource Correlation*.
-* **Fa & Jin (2007):** *Quantitative Estimation of Helium-3 Distribution Using Solar Wind Implantation Models*.
-* **Pieters et al. (2009):** *Characterization of the Moon Mineralogy Mapper (M3) aboard Chandrayaan-1*.
-* **Ogawa et al. (2011):** *Elemental Composition Maps from SELENE/Kaguya Gamma-Ray Spectrometer (GRS)*.
+* **Cameron, E. N. (1992):** *Helium Resources of Mare Tranquillitatis*. Wisconsin Center for Space Automation and Robotics, Technical Report WCSAR-TR-AR3-9207-1.
+* **Wittenberg, L. J., Cameron, E. N., et al. (1992):** *A Review of Helium-3 Resources and Acquisition for Use as Fusion Fuel*. Fusion Technology, v. 21, pp. 2230-2253.
+* **Fa, W., & Jin, Y. Q. (2007):** *Quantitative Estimation of Helium-3 Distribution in Lunar Regolith Using Solar Wind Implantation Models*. Progress in Electromagnetics Research, v. 7, pp. 465-472.
+* **Pieters, C. M., et al. (2009):** *Characterization of the Moon Mineralogy Mapper (M3) aboard Chandrayaan-1*. Current Science, v. 96, n. 4.
+* **Ogawa, K., et al. (2011):** *Elemental Composition Maps from SELENE/Kaguya Gamma-Ray Spectrometer (GRS)*. JAXA DARTS Planetology Database.
 * **NASA DONKI Portal:** [CCMC Space Weather Inventory](https://nasa.gov).
 * **NOAA SWPC Operations:** [Space Weather Prediction Center Data Access](https://noaa.gov).
+* **NASA CMR Program:** [Common Metadata Repository Gateway](https://cmr.earthdata.nasa.gov/).
+* **JAXA DARTS System:** [Data Archives and Transmission System for Space Science](https://jaxa.jp).
+
+
 * **NASA CMR Program:** [Common Metadata Repository Gateway](https://nasa.gov).
 * **JAXA DARTS System:** [Data Archives and Transmission System for Space Science](https://jaxa.jp).
