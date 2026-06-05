@@ -1,0 +1,13 @@
+# Ambientes virtuais
+_venv_novo/
+.env
+
+# Arquivos do PyCharm
+.idea/
+
+# Caches de Python
+__pycache__/
+*.pyc
+
+# Saídas do projeto
+outputs/
