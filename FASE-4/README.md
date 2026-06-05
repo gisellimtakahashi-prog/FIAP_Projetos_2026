@@ -13,6 +13,7 @@
 * Giselli Mayumi Takahashi Yokoyama - RM 572690
 * João Otávio Moraes - RM 573227
 * Renata de Almeida Marinho - RM 569342
+* Richard Wrobel dos Santos - RM 573998
 ---
 ### 🎓 Tutor(a):
 * Nicolly Candida Rodrigues de Souza
