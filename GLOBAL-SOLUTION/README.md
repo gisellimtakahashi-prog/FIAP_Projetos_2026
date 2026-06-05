@@ -114,7 +114,7 @@ python lunar_monitor.py
 
 ---
 
-## 📁 Estrutura de Arquivos de Saída (Módulo 4)
+## 📁 Estrutura de Arquivos de Saída 
 
 Ao final de cada execução bem-sucedida, o sistema cria um diretório `./outputs/` contendo os seguintes artefatos estruturados para auditoria científica:
 
